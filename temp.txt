@@ -1,0 +1,60 @@
+-- 5.11()
+	query	查询	add		添加
+	update	更新
+	params	参数
+-- 5.13()
+	found	找到	database		数据库
+	find	发现	connectivity	连接
+	file	文件	driver			驱动
+	handl	处理	property		属性
+	handler	处理者
+	throw	抛
+	format	格式
+	empty	空的
+	message	消息
+	type	类型
+	blank	空白
+	engine：引擎
+-- 5.14(前端.html)
+	doctype	文档类型	width	宽度	border	边框	meta	元信息	checked		选中的
+	meta	变化		height	高度	colspan	合并列	metadata元数据	option		选项
+	charset	字符集						target	目标					textarea	文本域
+	title	题目		href	超链接
+-- 5.15(前端.html)
+	form	表单	top		顶部	frame		框架	_parent	根源	font	字体
+	method	方法	bottom	底部	frameset	框架集					link	连接
+	cols	报表列	left	左边
+	rows	报表行	right	右边
+-- 5.16(css)
+	auto		自动		padding		内边距
+	center		中间		margin		外边距
+-- 5.21(script)
+	console		控制台		arguments	参数
+	alert		警告		strict		严格
+	defined		有定义的
+	function	函数
+-- 5.23(自习)
+	pattern	模式(API可调出正则表达式相关内容)		foreach	为每一个
+-- 5.24(BOM)
+	confirm		确定		clear		清除		interval		间隔
+-- 5.26(DOM)
+	tag			标签		create		创造
+	element		元素		download	下载
+	attribute	属性		done		已完成
+	append		附加		init		初始化
+	child		产物		remove		移除
+	selector	选择器		
+	node		节点
+-- 5.31(jsp)
+	local		本地	
+	host		主机
+	config		配置
+-- 6.1(Servlet)
+	throwable	异常体系
+-- 6.6(总结)
+	redirect	改变方向
+	dispatch	派遣
+	inactive	闲置
+	interval	间隔
+	invalidate	使无效
+	destroy		销毁
